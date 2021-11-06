@@ -1,0 +1,4 @@
+Check list structure :
+
+-module/component name 
+-checks for this module
