@@ -1,0 +1,20 @@
+Bug report structure :
+
+-Bug ID
+-Project name
+-Component
+-Build version
+-Severity
+-Priority
+-Status
+-Author
+-Destination
+-Environment
+-Pre-conditions
+-Title
+-Summary
+-Steps to reproduse
+-Actual result
+-Expected result
+-Attachment
+
